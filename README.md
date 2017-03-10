@@ -1,6 +1,6 @@
 # dashboard
 
-Dashboard is the entry to various resource available entirely for https://wasin.io.
+Dashboard is the entry to various resource available entirely for https://wasin.io.  
 It locates at http://dashboard.wasin.io.
 
 # License
