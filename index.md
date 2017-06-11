@@ -1,6 +1,38 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+<div class="weui-grids">
+  <a href="http://blog.wasin.io" class="weui-grid">
+      <div class="weui-grid__icon">
+          <img src="/assets/images/ic_insert_drive_file_black_24px.svg" alt="blog icon">
+      </div>
+      <p class="weui-grid__label">
+          Blog
+      </p>
+  </a>
+  <a href="http://projects.wasin.io" class="weui-grid">
+      <div class="weui-grid__icon">
+          <img src="/assets/images/ic_assignment_black_24px.svg" alt="projects icon">
+      </div>
+      <p class="weui-grid__label">
+          Projects
+      </p>
+  </a>
+  <a href="http://blog.wasin.io/monthly-report" class="weui-grid">
+      <div class="weui-grid__icon">
+          <img src="/assets/images/ic_content_paste_black_24px.svg" alt="monthly report icon">
+      </div>
+      <p class="weui-grid__label">
+          Monthly Report
+      </p>
+  </a>
+  <a href="javascript:;" class="weui-grid">
+      <div class="weui-grid__icon">
+          <img src="/assets/images/ic_rounded_corner_black_24px.svg" alt="analytics icon">
+      </div>
+      <p class="weui-grid__label">
+          ...
+      </p>
+  </a>
+</div>
