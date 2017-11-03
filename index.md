@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="weui-grids">
-  <a href="http://blog.wasin.io" class="weui-grid">
+  <a href="https://blog.wasin.io" class="weui-grid">
       <div class="weui-grid__icon">
           <img src="/assets/images/ic_insert_drive_file_black_24px.svg" alt="blog icon">
       </div>
@@ -11,15 +11,7 @@ layout: default
           Blog
       </p>
   </a>
-  <a href="http://projects.wasin.io" class="weui-grid">
-      <div class="weui-grid__icon">
-          <img src="/assets/images/ic_assignment_black_24px.svg" alt="projects icon">
-      </div>
-      <p class="weui-grid__label">
-          Projects
-      </p>
-  </a>
-  <a href="http://blog.wasin.io/monthly-report" class="weui-grid">
+  <a href="https://blog.wasin.io/monthly-report" class="weui-grid">
       <div class="weui-grid__icon">
           <img src="/assets/images/ic_content_paste_black_24px.svg" alt="monthly report icon">
       </div>
