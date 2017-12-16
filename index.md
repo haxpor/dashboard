@@ -19,12 +19,20 @@ layout: default
           Monthly Report
       </p>
   </a>
-  <a href="javascript:;" class="weui-grid">
+  <a href="https://blog.wasin.io/games" class="weui-grid">
       <div class="weui-grid__icon">
-          <img src="assets/images/ic_rounded_corner_black_24px.svg" alt="analytics icon">
+          <img src="assets/images/game.svg" alt="game icon">
       </div>
       <p class="weui-grid__label">
-          ...
+          Games
+      </p>
+  </a>
+  <a href="https://blog.wasin.io/tech" class="weui-grid">
+      <div class="weui-grid__icon">
+          <img src="assets/images/tech.svg" alt="tech icon">
+      </div>
+      <p class="weui-grid__label">
+          Tech
       </p>
   </a>
 </div>
